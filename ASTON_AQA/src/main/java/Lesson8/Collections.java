@@ -2,7 +2,7 @@ package Lesson8;
 
 import java.util.*;
 
-public class LessonCollections {
+public class Collections {
     public static void main(String[] args) {
         //1. Counting unique words.
         String[] words = {
